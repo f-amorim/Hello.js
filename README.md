@@ -1,6 +1,6 @@
 # Hello.js
 
-<strong>Observaões</strong>
+<strong>Observações</strong>
 
 <ul>
     <li>pode conter erros, pois ainda esta em processo de finalização</li>
