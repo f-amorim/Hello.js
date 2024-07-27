@@ -8,4 +8,4 @@
     
 </ul>
 
-<p>a aplicação consiste em criar um arquivo e receber uma frase à ser gravada nele feito pelo "createFile.cjs". A autoria sera atribuida usando "helloWorld.cjs" e gravada no arquivo peo "autor.cjs"</p>
+<p>a aplicação consiste em criar um arquivo e receber uma frase à ser gravada nele feito pelo "createFile.cjs". A autoria sera atribuida usando "helloWorld.cjs" e gravada no arquivo pelo "autor.cjs"</p>
