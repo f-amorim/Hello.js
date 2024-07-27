@@ -13,13 +13,13 @@ const rl = readline.createInterface({
 
 
 //pergunta oa usuario o que será escrito no arquivo
-const pergunta = () => {rl.question("Escreva uma sentença: ",
+const pergunta = () => {rl.question("Escreva uma sentença: (time limit 10s)\n",
     (conteudo)=>{
-        try{
+        try {
             console.log(`"${conteudo}" será escrito no arquivo ${filePath}`)
             fs.writeFile(filePath, conteudo, 'utf8')
 
-        }catch(err){console.log(err)}
+        } catch (err) { console.log(err)} 
     }
 ) }
 
